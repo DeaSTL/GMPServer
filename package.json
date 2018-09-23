@@ -1,0 +1,19 @@
+{
+  "name": "websocket_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeaSTL",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "compare-versions": "^3.3.0",
+    "hapi": "^17.5.3",
+    "jsonic": "^0.3.0",
+    "uuid": "^3.3.2"
+  }
+}

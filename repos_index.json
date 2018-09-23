@@ -1,0 +1,265 @@
+{
+    "gmp": {
+        "package_name": "gmp",
+        "versions": {
+            "0.1.0": {
+                "package_name": "gmp",
+                "version_name": "0.1.0",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.0"
+                    }
+                ]
+            },
+            "0.1.2": {
+                "package_name": "gmp",
+                "version_name": "0.1.2",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.2"
+                    }
+                ]
+            },
+            "0.1.3": {
+                "package_name": "gmp",
+                "version_name": "0.1.3",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.3"
+                    }
+                ]
+            },
+            "0.1.4": {
+                "package_name": "gmp",
+                "version_name": "0.1.4",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.3"
+                    }
+                ]
+            },
+            "0.1.5": {
+                "package_name": "gmp",
+                "version_name": "0.1.5",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.3"
+                    }
+                ]
+            },
+            "0.1.6": {
+                "package_name": "gmp",
+                "version_name": "0.1.6",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.3"
+                    }
+                ]
+            },
+            "0.1.7": {
+                "package_name": "gmp",
+                "version_name": "0.1.7",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.4"
+                    }
+                ]
+            },
+            "0.1.8": {
+                "package_name": "gmp",
+                "version_name": "0.1.8",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.5"
+                    },
+                    {
+                        "package_name": "json",
+                        "version_name": "1.0"
+                    }
+                ]
+            },
+            "0.1.81": {
+                "package_name": "gmp",
+                "version_name": "0.1.81",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.5"
+                    },
+                    {
+                        "package_name": "json",
+                        "version_name": "1.0"
+                    }
+                ]
+            },
+            "0.1.82": {
+                "package_name": "gmp",
+                "version_name": "0.1.82",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.51"
+                    },
+                    {
+                        "package_name": "json",
+                        "version_name": "1.0"
+                    }
+                ]
+            },
+            "0.1.83": {
+                "package_name": "gmp",
+                "version_name": "0.1.83",
+                "filename": "gmp.lua",
+                "dependencies": [
+                    {
+                        "package_name": "gmplib",
+                        "version_name": "0.1.51"
+                    },
+                    {
+                        "package_name": "json",
+                        "version_name": "1.0"
+                    }
+                ]
+            }
+        },
+        "author": "deastl",
+        "filename": "gmp.lua",
+        "password": "$2a$10$grbWWKB5F8i5mGcVnAxHL.MSFoHW61bOUcSbbYH6z15pIADoG.pQa"
+    },
+    "gmplib": {
+        "package_name": "gmplib",
+        "versions": {
+            "0.1.0": {
+                "package_name": "gmplib",
+                "version_name": "0.1.0",
+                "filename": "gmplib.lua",
+                "dependencies": []
+            },
+            "0.1.2": {
+                "package_name": "gmplib",
+                "version_name": "0.1.2",
+                "filename": "gmplib.lua",
+                "dependencies": []
+            },
+            "0.1.3": {
+                "package_name": "gmplib",
+                "version_name": "0.1.3",
+                "filename": "gmplib.lua",
+                "dependencies": []
+            },
+            "0.1.4": {
+                "package_name": "gmplib",
+                "version_name": "0.1.4",
+                "filename": "gmplib.lua",
+                "dependencies": []
+            },
+            "0.1.5": {
+                "package_name": "gmplib",
+                "version_name": "0.1.5",
+                "filename": "gmplib.lua",
+                "dependencies": []
+            },
+            "0.1.51": {
+                "package_name": "gmplib",
+                "version_name": "0.1.51",
+                "filename": "gmplib.lua",
+                "dependencies": []
+            },
+            "0.1.52": {
+                "package_name": "gmplib",
+                "version_name": "0.1.52",
+                "filename": "gmplib.lua",
+                "dependencies": []
+            }
+        },
+        "author": "deastl",
+        "filename": "gmplib.lua",
+        "password": "$2a$10$4kcGWyS7nZOUYwnrWjfZ5eOpIIfVDH7atRC9DZ2fS57Xtv0aFFMVi"
+    },
+    "hashlib": {
+        "package_name": "hashlib",
+        "versions": {
+            "1.0.0": {
+                "package_name": "hashlib",
+                "version_name": "1.0.0",
+                "filename": "hashlib.lua",
+                "dependencies": []
+            },
+            "1.0.1": {
+                "package_name": "hashlib",
+                "version_name": "1.0.1",
+                "filename": "hashlib.lua",
+                "dependencies": []
+            }
+        },
+        "author": "deastl",
+        "filename": "hashlib.lua",
+        "password": "$2a$10$hpekpT90TU7DA35KOrwN..S5Mut4tKRHvzjTz.fAJq4UsP.kKDr/K"
+    },
+    "moonlight": {
+        "package_name": "moonlight",
+        "versions": {
+            "0.0.1": {
+                "package_name": "moonlight",
+                "version_name": "0.0.1",
+                "filename": "moonlight.sng",
+                "dependencies": []
+            },
+            "0.0.3": {
+                "package_name": "moonlight",
+                "version_name": "0.0.3",
+                "filename": "moonlight.sng",
+                "dependencies": []
+            }
+        },
+        "author": "adnre",
+        "filename": "moonlight.sng",
+        "password": "$2a$10$QF3BuQtEgODf8zMDb7Da4.TM0SkvipgA6D5krD9Tk8dzcQtHkv1my"
+    },
+    "transaction_server": {
+        "package_name": "transaction_server",
+        "versions": {
+            "1.0": {
+                "package_name": "transaction_server",
+                "version_name": "1.0",
+                "filename": "transaction_server.lua",
+                "dependencies": []
+            }
+        },
+        "author": "deastl",
+        "filename": "transaction_server.lua",
+        "password": "$2a$10$v6w9nM./HsJvkWV8wK5EoejsaSUnt2bqCinfLULLb9wKLTz5.wpoO"
+    },
+    "json": {
+        "package_name": "json",
+        "versions": {
+            "1.0": {
+                "package_name": "json",
+                "version_name": "1.0",
+                "filename": "json.lua",
+                "dependencies": []
+            }
+        },
+        "author": "ElvishJerricco",
+        "filename": "json.lua",
+        "password": "$2a$10$RU66iDzYyOhxkI2RWm6YdeD7Zoo/JAn755zCQA8DA5nHDz/peGkt."
+    }
+}
